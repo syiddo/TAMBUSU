@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1733195344 source:e:\fikri\coding\c++\tubesstd\texteditor\main.cpp
+	"TextEditor.h"
+	<conio.h>
+
+1733196802 e:\fikri\coding\c++\tubesstd\texteditor\texteditor.h
+	<iostream>
+
+1733198047 source:e:\fikri\coding\c++\tubesstd\texteditor\texteditor.cpp
+	"TextEditor.h"
+	<cstdlib>
+
+1734581050 source:c:\kuliahh\codingg\tubesstd\texteditor\main.cpp
+	"TextEditor.h"
+	<conio.h>
+	<cstdlib>
+
+1734016788 c:\kuliahh\codingg\tubesstd\texteditor\texteditor.hpp
+	<iostream>
+
+1734580989 c:\kuliahh\codingg\tubesstd\texteditor\texteditor.h
+	<iostream>
+
+1734605391 source:c:\kuliahh\codingg\tubesstd\texteditor\texteditor.cpp
+	"TextEditor.h"
+	<cstdlib>
+
